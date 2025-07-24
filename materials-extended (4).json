@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Iso E Super",
+    "cas": "54464-57-2",
+    "olfactory_family": "Woody",
+    "ifra_limit_cat4": "5%",
+    "role": "Base Note / Diffusive Enhancer",
+    "source": "IFF"
+  },
+  {
+    "name": "Hedione",
+    "cas": "24851-98-7",
+    "olfactory_family": "Floral / Jasmine",
+    "ifra_limit_cat4": "None",
+    "role": "Bridge / Enhancer",
+    "source": "Firmenich"
+  },
+  {
+    "name": "Ambroxan",
+    "cas": "6790-58-5",
+    "olfactory_family": "Amber / Woody",
+    "ifra_limit_cat4": "1.7%",
+    "role": "Fixative / Base Note",
+    "source": "Givaudan"
+  },
+  {
+    "name": "Citronellol",
+    "cas": "106-22-9",
+    "olfactory_family": "Fresh / Floral",
+    "ifra_limit_cat4": "1.5%",
+    "role": "Top Note / Modifier",
+    "source": "LMR - IFF"
+  },
+  {
+    "name": "Cashmeran",
+    "cas": "33704-61-9",
+    "olfactory_family": "Musky / Woody",
+    "ifra_limit_cat4": "None",
+    "role": "Base Note",
+    "source": "IFF"
+  },
+  {
+    "name": "Linalool",
+    "cas": "78-70-6",
+    "olfactory_family": "Floral / Herbal",
+    "ifra_limit_cat4": "1.7%",
+    "role": "Top Note / Modifier",
+    "source": "Givaudan"
+  },
+  {
+    "name": "Geraniol",
+    "cas": "106-24-1",
+    "olfactory_family": "Floral / Rose",
+    "ifra_limit_cat4": "0.2%",
+    "role": "Heart Note / Modifier",
+    "source": "Firmenich"
+  },
+  {
+    "name": "Coumarin",
+    "cas": "91-64-5",
+    "olfactory_family": "Sweet / Balsamic",
+    "ifra_limit_cat4": "1.2%",
+    "role": "Fixative / Base",
+    "source": "Symrise"
+  },
+  {
+    "name": "Eugenol",
+    "cas": "97-53-0",
+    "olfactory_family": "Spicy / Clove",
+    "ifra_limit_cat4": "0.5%",
+    "role": "Bridge / Heart Note",
+    "source": "Robertet"
+  },
+  {
+    "name": "Cinnamyl Alcohol",
+    "cas": "104-54-1",
+    "olfactory_family": "Spicy / Balsamic",
+    "ifra_limit_cat4": "0.1%",
+    "role": "Heart Note",
+    "source": "Payan Bertrand"
+  },
+  {
+    "name": "Benzyl Salicylate",
+    "cas": "118-58-1",
+    "olfactory_family": "Floral / Sweet",
+    "ifra_limit_cat4": "3.0%",
+    "role": "Fixative / Heart Note",
+    "source": "Firmenich"
+  },
+  {
+    "name": "Vanillin",
+    "cas": "121-33-5",
+    "olfactory_family": "Sweet / Gourmand",
+    "ifra_limit_cat4": "None",
+    "role": "Base Note / Modifier",
+    "source": "MANE"
+  },
+  {
+    "name": "Sandalore",
+    "cas": "106-28-5",
+    "olfactory_family": "Woody / Creamy",
+    "ifra_limit_cat4": "2.0%",
+    "role": "Fixative / Base",
+    "source": "Givaudan"
+  },
+  {
+    "name": "Nerol",
+    "cas": "106-25-2",
+    "olfactory_family": "Citrus / Floral",
+    "ifra_limit_cat4": "1.0%",
+    "role": "Top Note / Modifier",
+    "source": "Ventos"
+  },
+  {
+    "name": "Beta Ionone",
+    "cas": "14901-07-6",
+    "olfactory_family": "Floral / Woody",
+    "ifra_limit_cat4": "0.1%",
+    "role": "Bridge Note",
+    "source": "IFF"
+  },
+  {
+    "name": "Aldehyde C-12 MNA",
+    "cas": "6728-26-3",
+    "olfactory_family": "Aldehydic / Waxy",
+    "ifra_limit_cat4": "0.02%",
+    "role": "Top Note / Lifter",
+    "source": "Firmenich"
+  },
+  {
+    "name": "Methyl Pamplemousse",
+    "cas": "67674-46-8",
+    "olfactory_family": "Citrus / Grapefruit",
+    "ifra_limit_cat4": "1.5%",
+    "role": "Top Note / Booster",
+    "source": "Symrise"
+  },
+  {
+    "name": "Florhydral",
+    "cas": "125109-85-5",
+    "olfactory_family": "Green / Floral",
+    "ifra_limit_cat4": "None",
+    "role": "Bridge Note / Enhancer",
+    "source": "Firmenich"
+  },
+  {
+    "name": "Calone",
+    "cas": "28940-11-6",
+    "olfactory_family": "Marine / Ozonic",
+    "ifra_limit_cat4": "0.05%",
+    "role": "Special Effect / Modifier",
+    "source": "IFF"
+  },
+  {
+    "name": "Ethyl Linalool",
+    "cas": "10339-55-6",
+    "olfactory_family": "Floral / Fruity",
+    "ifra_limit_cat4": "0.5%",
+    "role": "Top Note / Modifier",
+    "source": "Fraterworks"
+  }
+]
